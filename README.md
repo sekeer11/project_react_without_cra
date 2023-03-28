@@ -1,2 +1,2 @@
-# project_react_without_cra
+# Proyecto de ejemplo
 Creating a React Project witout using create-react-app
